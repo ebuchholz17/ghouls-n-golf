@@ -9,6 +9,7 @@ module.exports = {
         filename: "double-golf-man.js",
         path: path.join(__dirname, "./dist")
     },
+    mode: "development",
     module: {
         rules: [
             { test: /\.ts$/, loader: "ts-loader" },
