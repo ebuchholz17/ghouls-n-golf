@@ -1,0 +1,26 @@
+{
+  "name": "double-golf-man",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server --content-base dist --colors --progress"
+  },
+  "author": "Erik Buchholz",
+  "dependencies": {
+    "fontfaceobserver": "^2.0.13",
+    "pixi.js": "^4.7.0",
+    "tween.js": "^16.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "@types/pixi.js": "^4.6.3",
+    "@types/tween.js": "^16.9.0",
+    "copy-webpack-plugin": "^4.3.1",
+    "raw-loader": "^0.5.1",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0",
+    "write-file-webpack-plugin": "^4.2.0"
+  }
+}

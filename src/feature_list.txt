@@ -1,0 +1,42 @@
+- transmission to golfball, golfball animate in animation, tranmission out of golfball
+- monsters and attack, monster death, taking damage
+- character and monster animations
+- heart art
+- have to golf again if you die
+- lost a heart when golfing unless at 1
+- flagpole on course and in action level, win condition
+- flagpole capture meter
+- block and kick, test player vs  player
+- put players in same level if golfers are close enough or on green
+
+- boss at the end
+- go to single screen at the end
+
+- golf hitting meter
+- powerups and health drops
+- player 2 catch up
+
+---------------------------------------------------------------------------------------------------
+- monster ai
+- projectiles
+- design some levels
+- fringe on oob levels
+
+- put players on same level if close enough
+- new golf course
+
+- golf meter
+- hurry up mode
+- health drops
+- power ups
+- powerup art
+- single screen mode at the end
+- grey ball to differentiate
+- golf course art
+
+----------------------------------------------------------------------------------------------------
+- moon and clouds
+- dragon boss
+- water level 
+- block and kick
+- rotate the dots on the golfball when he punches
